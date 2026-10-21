@@ -3,7 +3,7 @@
 [org.gnome.desktop.interface]
 color-scheme='prefer-dark'
 gtk-theme='Orchis-Dark'
-icon-theme='Papirus-Dark'
+icon-theme='kora'
 cursor-theme='breeze_cursors'
 cursor-size=24
 
