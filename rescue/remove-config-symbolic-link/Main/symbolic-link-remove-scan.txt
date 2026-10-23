@@ -1,0 +1,23 @@
+
+
+##
+## # Remove Symbolic Link in HOME folder
+##
+
+
+
+
+##
+## ## ~/
+##
+
+~
+
+
+
+
+##
+## ## ~/.config
+##
+
+.config
