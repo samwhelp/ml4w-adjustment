@@ -10,3 +10,9 @@
 ##
 ## ## Package / style
 ##
+
+qt6ct
+kvantum
+
+qt6-svg
+qt5-svg
