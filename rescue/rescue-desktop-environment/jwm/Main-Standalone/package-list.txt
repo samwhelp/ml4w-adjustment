@@ -127,6 +127,7 @@ papirus-icon-theme
 #breeze
 #breeze-gtk
 #breeze-icons
+#breeze-cursors
 
 
 
