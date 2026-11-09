@@ -277,7 +277,7 @@ papirus-icon-theme
 ## ## Package  / Theme / orchis-theme
 ##
 
-#orchis-theme
+orchis-theme
 
 
 
